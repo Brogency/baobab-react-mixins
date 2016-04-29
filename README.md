@@ -1,6 +1,11 @@
-# baobab-react-mixins
+[![npm version](https://badge.fury.io/js/baobab-react-mixins.svg)](https://badge.fury.io/js/baobab-react-mixins)
 
-It is aggregation package of baobab-react-schemabranchmixin and baobab-react
+baobab-react-mixins
+===========
+
+It is aggregation of 
+[baobab-react-schemabranchmixin](https://github.com/Brogency/baobab-react-schemabranchmixin) 
+and [baobab-react](https://github.com/Yomguithereal/baobab)
 
 # Install
 
