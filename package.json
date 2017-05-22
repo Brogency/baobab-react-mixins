@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Brogency/baobab-react-mixins.git"
+    "url": "git+https://github.com/beda-software/baobab-react-mixins.git"
   },
   "keywords": [
     "react",
@@ -17,12 +17,12 @@
     "baobab-react",
     "baobab-react-schemabranchmixin"
   ],
-  "author": "Bro agency",
+  "author": "beda.software",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Brogency/baobab-react-mixins/issues"
+    "url": "https://github.com/beda-software/baobab-react-mixins/issues"
   },
-  "homepage": "https://github.com/Brogency/baobab-react-mixins#readme",
+  "homepage": "https://github.com/beda-software/baobab-react-mixins#readme",
   "devDependencies": {
     "babel": "^6.3.26",
     "babel-cli": "^6.4.0",

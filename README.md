@@ -4,7 +4,7 @@ baobab-react-mixins
 ===========
 
 It is aggregation of 
-[baobab-react-schemabranchmixin](https://github.com/Brogency/baobab-react-schemabranchmixin) 
+[baobab-react-schemabranchmixin](https://github.com/beda-software/baobab-react-schemabranchmixin) 
 and [baobab-react](https://github.com/Yomguithereal/baobab)
 
 # Install
